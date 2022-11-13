@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagile_docs=self.webpackChunkagile_docs||[]).push([[533],{8017:function(e){e.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"\u66f4\u65b0\u65e5\u5fd7"}')}}]);

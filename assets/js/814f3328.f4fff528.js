@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagile_docs=self.webpackChunkagile_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"\u670d\u52a1\u5668\u66f4\u65b0\u65e5\u5fd7","items":[{"title":"W22.V2.6 - 16 \u66f4\u65b0","permalink":"/blog/W22.V2.6 - 16"}]}')}}]);
